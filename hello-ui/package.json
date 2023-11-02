@@ -1,0 +1,15 @@
+{
+  "name": "hello-ui",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tmagic/schema": "^1.2.9",
+    "vue": "^3.2.37"
+  }
+}
